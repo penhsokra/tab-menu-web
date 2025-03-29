@@ -29917,12 +29917,12 @@ s=2
 return A.B(A.nm(B.dB,null,t.z),$async$a7V)
 case 2:s=3
 return A.B(A.af4(A.b3S()),$async$a7V)
-case 3:q=$.bs()
+case 3:A.b5a()
+q=$.bs()
 p=t.nT
 A.aTO(q,new A.aMs(),!0,p)
 A.aTO(q,new A.aMt(),!0,t.aT)
 q=$.dz;(q==null?$.dz=B.bv:q).pT(0,null,p)
-A.b5a()
 if($.ad==null)A.XT()
 q=$.ad
 q.toString
